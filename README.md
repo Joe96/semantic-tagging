@@ -22,6 +22,7 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screen Shot
+![readme-screenshot](https://user-images.githubusercontent.com/17390256/133508017-c35a0931-59b7-4426-b0e9-0d44421c1121.png)
 [Screen shot to the homepage.](assets\images\readme-screenshot.png)
 [Nav bar and sections.](assets\images\readme-screenshot-2.png)
 
