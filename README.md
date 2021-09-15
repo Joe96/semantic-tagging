@@ -22,9 +22,9 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screen Shot
-![readme-screenshot](https://user-images.githubusercontent.com/17390256/133508017-c35a0931-59b7-4426-b0e9-0d44421c1121.png)
-[Screen shot to the homepage.](assets\images\readme-screenshot.png)
-[Nav bar and sections.](assets\images\readme-screenshot-2.png)
+![Screen shot to the homepage.](https://user-images.githubusercontent.com/17390256/133508017-c35a0931-59b7-4426-b0e9-0d44421c1121.png)
+
+![Nav bar and sections.](https://user-images.githubusercontent.com/17390256/133508183-bc0d832e-6a0e-44d4-b5a6-11799bc76a98.png)
 
 ## Link to gitpage and github repo.
 [Link to gitpage.](https://joe96.github.io/semantic-tagging)
