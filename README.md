@@ -1,6 +1,11 @@
-# semantic-tagging
+# 01 HTML, CSS, and Git: Code Refactor semantic-tagging
 
-## Acceptance Criteria
+## Objective
+Refactor the existing code to meet a certain set of standards or to implement a new technology. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible. 
+
+
+
+## Instructions
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -16,5 +21,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![Alt text](hw\semantic-tagging\assets\images\readme-screenshot.png "Screenshoot 1")
-![Alt text](hw\semantic-tagging\assets\images\readme-screenshot-2.png "Screenshoot 2")
+## Screen Shot
+![Screen shot to the homepage.](semantic-tagging\assets\images\readme-screenshot.png "Screen Shot 1")
+![Nav bar and sections.](semantic-tagging\assets\images\readme-screenshot-2.png "Screen shot 2")
+
+## Link to gitpage
+![Screen shot to the homepage.](https://joe96.github.io/semantic-tagging)
+![Screen shot to the homepage.](https://github.com/Joe96/semantic-tagging)
