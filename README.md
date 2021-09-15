@@ -22,9 +22,9 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screen Shot
-[Screen shot to the homepage.](semantic-tagging\assets\images\readme-screenshot.png "Screen Shot 1")
-[Nav bar and sections.](semantic-tagging\assets\images\readme-screenshot-2.png "Screen shot 2")
+[Screen shot to the homepage.](assets\images\readme-screenshot.png)
+[Nav bar and sections.](assets\images\readme-screenshot-2.png)
 
-## Link to gitpage
-[Screen shot to the homepage.](https://joe96.github.io/semantic-tagging)
-[Screen shot to the homepage.](https://github.com/Joe96/semantic-tagging)
+## Link to gitpage and github repo.
+[Link to gitpage.](https://joe96.github.io/semantic-tagging)
+[Link to github repo.](https://github.com/Joe96/semantic-tagging)
